@@ -1,0 +1,59 @@
+This file demonstrates our group's weekly progress for completing the Mathematical Modelling Assignment in semester 231.
+
+The percentage workload of out team after considering carefully: 
+- Cao Ngoc Lam (Leader): 30%
+- Nguyen Chau Hoang Long: 30%
+- Ly Trieu Uy: 20%
+- Le Nhan Van: 20%
+
+This is the timeline of our work:
+Week 1 (23/10 - 29/10): Workload division
+- In the first week, we divided the workload and responsibility for each member, as well as reminding all the team to read the specified references in the assignment
+Workload division:
+- Team leader: Cao Ngoc Lam
+- Implement problem 1: Ly Trieu Uy, Le Nhan Van
+- Implement problem 2: Cao Ngoc Lam, Nguyen Chau Hoang Long
+- Writing report: Cao Ngoc Lam
+- In the beginning, Cao Ngoc Lam and Nguyen Chau Hoang Long choose to solve problem 2 by computation
+
+Week 2 (30/10 - 5/11): Theory discussion
+- In the 2nd week, we shares our understanding about two-stage stochastic programming for each other in team.
+- We decide to choose Python for the coding implementation.
+- In Python, we discuss clearly about which package to use and decide 5 packages will be used: gurobipy, numpy, networkx, matplotlib.
+We continue to divide the task for each member based on the problem:
+- Problem 1: Ly Trieu Uy and Le Nhan Van studied and gained more insight about the two-stage model, as well as the Industry - Manufacturing problem.
+- Problem 2: Cao Ngoc Lam and Nguyen Chau Hoang Long researched about evacuation planning and the way Li Wang 's paper modelling the evacuation process, as well as 2 subproblem and the Successive shortest path
+
+Week 3 (6/11 - 12/11): Starting to code
+- In the 3rd week, we started to learn about the API of necessary file of the packages we choose. We also implement pseudocode for each problem:
+- Problem 1: Ly Trieu Uy and Le Nhan Van continued to learn the API of the chosen packages, as well as implement the pseudocode for the problem 1
+- Problem 2: Nguyen Chau Hoang Long and Cao Ngoc Lam learned the API of networkx and implemented a small grid model successivefully. But eventually, me and Nguyen Chau Hoang Long started to find it hard to apply the API of min-cost flow algorithm
+in networkx to implement the sucessive shortest path on the grid.
+
+Week 4 (13/11 - 19/11): Implement program for problem 1 and changing the solution for problem 2
+- In the 4th week, the program for problem 1 were implemented and we choose to demonstrates problem 2 in theory based.
+- Problem 1: Ly Trieu Uy implemented the program for Problem 1, Le Nhan Van wrte and demonstrated the problem as well as neccessary equation for problem 1
+- Problem 2: Cao Ngoc Lam wrote and demonstrated the instroduction and model equation for problem 2, Nguyen Chau Hoang Long learned and demonstrated the necessary algorithm for two subproblems. 
+
+Week 5 (20/11 - 26/11): Testing the problem 1 and implement, verified the SuccessivePath algorithm
+- In the 5th week, we test the problem 1 carefully and finish verifying the effectiveness of the algorithm in the problem 2
+- Problem 1: Some minor problems appears in the optimization result. Ly Trieu Uy and Le Nhan Van concentrated on fixing the program.
+- Problem 2: Cao Ngoc Lam and Nguyen Chau Hoang Long concentrated on implement the algorithm on small grid networks and checked the result carefully. 
+
+Week 6 (27/11 - 3/12): Summarization 
+- In the 6th weeks, two problems were finished. Cao Ngoc Lam started to summarize the works of each problems and writing the reports. Other members helped by drawing necessary figures for the report.
+- In each works must include references used for finishing the problem.
+
+Week 7 (4/12 - 11/12): Finishing 
+- The report was finished.
+- All members checked their respective problems in the report for misinformation or ambiguity in explaining their work.
+
+Week 8(12/12 - 19/12): Revising for Final Exam
+- In this week, we were busy with revising for final exam
+- After reading the forum, we found that the formula of the model had been slightly changing, and we received a mail to extend the deadline, so we chose to finish the final term before any changing will be applied in our work.
+
+Week 9(20/12 - 27/12): Continuing with the exam
+- In this week, we also busy with the exam, so no work was conducted.
+
+Week 10(28/12 - 3/1): Finish the report
+- In this week, we changed the formula in the model, and finally finish the report. We submit our work before the deadline(3/1).
